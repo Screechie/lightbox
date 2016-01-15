@@ -1,0 +1,17 @@
+h3.description{
+	color:#0066FF;
+
+}
+
+div a{
+	color: #0066FF;
+	text-decoration: none;
+}
+
+div a:hover{
+	opacity: 0.5;
+}
+
+div#links{
+	color: #0066FF;
+}
